@@ -1,0 +1,52 @@
+[
+    {
+        "id": "X1",
+        "cost": 5,
+        "volume": 8
+    },
+    {
+        "id": "X2",
+        "cost": 6,
+        "volume": 4
+    },
+    {
+        "id": "X3",
+        "cost": 6,
+        "volume": 3
+    },
+    {
+        "id": "X4",
+        "cost": 3,
+        "volume": 11
+    },
+    {
+        "id": "X5",
+        "cost": 6,
+        "volume": 3
+    },
+    {
+        "id": "X6",
+        "cost": 14,
+        "volume": 15
+    },
+    {
+        "id": "X7",
+        "cost": 10,
+        "volume": 9
+    },
+    {
+        "id": "X8",
+        "cost": 4,
+        "volume": 8
+    },
+    {
+        "id": "X9",
+        "cost": 10,
+        "volume": 6
+    },
+    {
+        "id": "X10",
+        "cost": 9,
+        "volume": 12
+    }
+]
